@@ -2,7 +2,7 @@
 - 🔭 I’m currently learning frontend development.
 - 👯 I’m looking to collaborate on HTML, CSS, and javascript.
 - 💬 Ask me about web development
-- 📫 How to reach me: abdulafeeng@gmail.com
+- 📫 How to reach me: abdulafeezng@gmail.com
 - 😄 Pronouns: he/him
 
 <!--
