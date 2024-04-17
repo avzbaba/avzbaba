@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I am Afeez Babatunde! 👋
+- 🔭 I’m currently learning frontend development.
+- 👯 I’m looking to collaborate on HTML, CSS, and javascript.
+- 💬 Ask me about web development
+- 📫 How to reach me: abdulafeeng@gmail.com
+- 😄 Pronouns: he/him
 
 <!--
 **avzbaba/avzbaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
